@@ -1,4 +1,6 @@
 ## Hi there 👋
+안시후
+대구과학고등학교
 
 <!--
 **sihoo-ahn09/sihoo-ahn09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
